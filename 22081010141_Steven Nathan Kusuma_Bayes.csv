@@ -1,0 +1,10 @@
+cap-shape,cap-surface,cap-color,Bruises,Odor,gill-attachment,gill-spacing,gill-size,gill-color,stalk-shape,stalk-root,stalk-surface-above-ring,stalk-surface-below-ring,stalk-color-above-ring,stalk-color-below-ring,veil-type,veil-color,ring-number,ring-type,spore-print-color,Population,Habitat,edible/poisonous
+X,s,Y,t,p,f,C,n,k,e,e,s,s,w,W,p,W,o,P,k,s,g,p
+X,s,Y,t,a,f,C,b,k,e,c,s,s,w,W,p,W,o,P,n,n,g,e
+B,s,W,t,a,f,C,b,n,e,c,s,s,w,W,p,W,o,P,n,n,m,e
+X,y,W,t,p,f,C,n,n,e,e,s,s,w,W,p,W,o,P,k,s,m,p
+X,s,Y,f,a,f,W,b,k,t,e,s,s,w,W,p,W,o,E,n,n,g,e
+X,y,Y,t,a,f,C,b,n,e,c,s,s,w,W,p,W,o,P,k,n,g,e
+B,s,W,t,a,f,C,b,k,e,c,s,s,w,W,p,W,o,P,k,n,m,e
+B,y,W,t,a,f,C,b,n,e,c,s,s,w,W,p,W,o,P,n,n,m,e
+X,y,W,t,p,f,C,n,n,e,e,s,s,w,W,p,W,o,P,k,n,g,p
